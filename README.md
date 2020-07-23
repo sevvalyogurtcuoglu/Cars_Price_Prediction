@@ -11,7 +11,7 @@ Web scraping has been applied to create the dataset. Used **Selenium** library (
 
 * Hyperparameter tuning processing were performed to obtain the best performance results. ( [classification.py](https://github.com/sevvalyogurtcuoglu/Cars_Price_Prediction/blob/master/classification.py ))
 
-* The model trained with Gradient Boosting Regressor for use in the Flask app was saved ( [train.py](https://github.com/sevvalyogurtcuoglu/Cars_Price_Prediction/blob/master/train.py ) ). Model registration was carried out with the joblib module ( [model.pkl](https://github.com/sevvalyogurtcuoglu/Cars_Price_Prediction/blob/master/model.pkl) ).
+* The model trained with *Gradient Boosting Regressor* for use in the Flask app was saved ( [train.py](https://github.com/sevvalyogurtcuoglu/Cars_Price_Prediction/blob/master/train.py ) ). Model registration was carried out with the joblib module ( [model.pkl](https://github.com/sevvalyogurtcuoglu/Cars_Price_Prediction/blob/master/model.pkl) ).
 
 ## Flask App
 
